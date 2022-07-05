@@ -72,7 +72,7 @@ namespace Rock_Paper_Scissors
             {
                 goto basla;
             }
-            Console.WriteLine("Oyun Bitti");
+            Console.WriteLine("Oyun Bitti mi?");
             Console.Read();
         }
     }
